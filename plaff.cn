@@ -1,1 +1,8 @@
-
+proxies:
+  - {name: 🇭🇰 朴朴乐A, server: jc.ap.fastqvpn.com, port: 29980, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, tls-verification: false, fast-open: false}
+  - {name: 🇭🇰 朴朴乐B, server: jc.ap.fastqvpn.com, port: 29979, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 朴朴乐C, server: gy.yjlyyds.cf, port: 29983, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 朴朴乐D, server: gy.yjlyyds.cf, port: 29982, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 朴朴乐E, server: gy.yjlyyds.cf, port: 29984, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 朴朴乐F, server: gy.yjlyyds.cf, port: 29987, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 朴朴乐G, server: gy.yjlyyds.cf, port: 29988, type: http, username: 442993652168396800, password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
