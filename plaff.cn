@@ -1,62 +1,66 @@
-proxies: 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_1", server: 211.99.115.24, port: 11016, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇸🇬_SG_新加坡_2", server: 211.99.115.24, port: 11116, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇫🇷_FR_法国_3", server: 211.99.115.24, port: 11451, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦_4", server: 211.99.115.24, port: 11652, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_5", server: 211.99.115.24, port: 11001, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇺🇸_US_美国_6", server: 211.99.115.24, port: 11404, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇩🇪_DE_德国_7", server: 211.99.115.24, port: 11406, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_8", server: 211.99.115.24, port: 11010, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇬🇧_GB_英国_9", server: 211.99.115.24, port: 11852, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇵🇭_PH_菲律宾_10", server: 211.99.115.24, port: 11901, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_11", server: 211.99.115.24, port: 11014, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇹🇭_TH_泰国_12", server: 211.99.115.24, port: 11902, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇹🇷_TR_土耳其_13", server: 211.99.115.24, port: 11904, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_14", server: 211.99.115.24, port: 11017, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_15", server: 211.99.115.24, port: 11015, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_16", server: 211.99.115.24, port: 11002, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇺🇸_US_美国_17", server: 211.99.115.24, port: 11403, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_18", server: 211.99.115.24, port: 11007, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_19", server: 211.99.115.24, port: 11013, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇦🇺_AU_澳大利亚_20", server: 211.99.115.24, port: 11351, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇹🇷_TR_土耳其_21", server: 211.99.115.24, port: 11903, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇬🇧_GB_英国_22", server: 211.99.115.24, port: 11851, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇹🇼_TW_台湾_23", server: 211.99.115.24, port: 11053, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh}
-  - {name: "🇨🇳_CN_中国->🇸🇬_SG_新加坡_24", server: 211.99.115.24, port: 11113, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇩🇪_DE_德国_25", server: 211.99.115.24, port: 11405, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇺🇸_US_美国_26", server: 211.99.115.24, port: 11401, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_27", server: 211.99.115.24, port: 11006, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_28", server: 211.99.115.24, port: 11011, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇹🇼_TW_台湾_29", server: 211.99.115.24, port: 11051, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh}
-  - {name: "🇨🇳_CN_中国->🇸🇬_SG_新加坡_30", server: 211.99.115.24, port: 11105, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇸🇬_SG_新加坡_31", server: 211.99.115.24, port: 11104, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇸🇬_SG_新加坡_32", server: 211.99.115.24, port: 11111, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇸🇬_SG_新加坡_33", server: 211.99.115.24, port: 11106, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇬🇧_GB_英国_34", server: 211.99.115.24, port: 11853, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇺🇸_US_美国_35", server: 211.99.115.24, port: 11501, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇮🇳_IN_印度_36", server: 211.99.115.24, port: 11302, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇺🇸_US_美国_37", server: 167.88.63.108, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC} 
-  - {name: "🇨🇳_CN_中国->🇪🇸_ES_西班牙_38", server: 211.99.115.24, port: 11601, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇹🇼_TW_台湾_39", server: 211.99.115.24, port: 11055, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_40", server: 211.99.115.24, port: 11012, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_41", server: 211.99.115.24, port: 11004, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  -  {name: "🇨🇳_CN_中国->🇹🇼_TW_台湾_42", server: 211.99.115.24, port: 11052, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_43", server: 211.99.115.24, port: 11018, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇳🇱_NL_荷兰_44", server: 211.99.115.24, port: 11551, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇳🇱_NL_荷兰_45", server: 211.99.115.24, port: 11553, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇮🇸_IS_冰岛_46", server: 211.99.115.24, port: 11701, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇮🇳_IN_印度_47", server: 211.99.115.24, port: 11301, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_48", server: 211.99.115.24, port: 11005, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇮🇩_ID_印度尼西亚_49", server: 211.99.115.24, port: 11905, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_50", server: 211.99.115.24, port: 11009, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇸🇬_SG_新加坡_51", server: 211.99.115.24, port: 11117, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_52", server: 211.99.115.24, port: 11003, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇸🇬_SG_新加坡_53", server: 211.99.115.24, port: 11112, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇸🇬_SG_新加坡_54", server: 211.99.115.24, port: 11114, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_55", server: 211.99.115.24, port: 11019, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇬🇧_GB_英国_56", server: 211.99.115.24, port: 11854, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇺🇸_US_美国_57", server: 211.99.115.24, port: 11402, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇸🇬_SG_新加坡_58", server: 211.99.115.24, port: 11110, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh}
-  - {name: "🇨🇳_CN_中国->🇭🇰_HK_香港_59", server: 211.99.115.24, port: 11008, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇸🇬_SG_新加坡_60", server: 211.99.115.24, port: 11118, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh} 
-  - {name: "🇨🇳_CN_中国->🇹🇼_TW_台湾_61", server: 211.99.115.24, port: 11054, type: ss, cipher: aes-256-gcm, password: zAdhDSabeh}
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11001/#11001%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11002/#11002%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11003/#11003%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11004/#11004%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11005/#11005%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11006/#11006%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11007/#11007%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11008/#11008%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11009/#11009%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11010/#11010%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11011/#11011%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11012/#11012%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11013/#11013%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11015/#11015%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11016/#11016%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11017/#11017%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11018/#11018%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11019/#11019%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11020/#11020%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11051/#11051%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11052/#11052%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11053/#11053%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11054/#11054%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11055/#11055%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11101/#11101%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11102/#11102%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11103/#11103%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11104/#11104%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11105/#11105%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11106/#11106%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11107/#11107%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11108/#11108%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11109/#11109%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11110/#11110%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11111/#11111%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11112/#11112%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11113/#11113%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11115/#11115%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11116/#11116%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11117/#11117%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11301/#11301%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11302/#11302%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11351/#11351%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11401/#11401%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11402/#11402%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11403/#11403%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11404/#11404%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11405/#11405%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11406/#11406%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11451/#11451%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11501/#11501%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11551/#11551%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11552/#11552%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11553/#11553%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11601/#11601%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11651/#11651%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11652/#11652%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11701/#11701%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11751/#11751%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11851/#11851%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11852/#11852%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11853/#11853%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11854/#11854%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11901/#11901%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11903/#11903%20%40WangCai_1
+ss://YWVzLTI1Ni1nY206ekFkaERTYWJlaA@211.99.115.8:11904/#11904%20%40WangCai_1
